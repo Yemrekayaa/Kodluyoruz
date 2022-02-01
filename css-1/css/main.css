@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    padding-top: 20px;
+    background-color:darkgreen;
+    text-align: center;
+}
+.anabaslik{
+    text-decoration: none;
+    font-weight: bolder;
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
+nav ul{
+    padding-left: 0;
+
+}
+nav ul li{
+    display: inline-block;
+    padding: 0 10px 20px 10px;
+    font-weight: bold;
+}
+nav ul li a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+section{
+    width: 80%;
+    margin: auto;
+}
+
+.urunlistesi{
+    text-align: center;
+}
+
+.urunlistesi ul{
+    list-style-position: inside
+}
+
+.urunler{
+text-align: center;
+}
+
+.urunler ol li{
+    display: inline-block;
+    padding: 25px;
+}
