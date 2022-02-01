@@ -11,3 +11,5 @@
 [HTML 2](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/htmlgiris-2)
 
 [HTML 3](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/htmlgiris-3)
+
+[HTML 4](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/htmlgiris-4)
