@@ -28,3 +28,5 @@
 ## BOOTSTRAP
 
 [BOOTSTRAP 1](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/BOOTSTRAP/bootstrap-1)
+
+[BOOTSTRAP 2](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/BOOTSTRAP/bootstrap-2)
