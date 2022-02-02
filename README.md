@@ -15,3 +15,5 @@
 [HTML 4](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/htmlgiris-4)
 
 [CSS 1](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/css-1)
+
+[CSS 2](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/css-2)
