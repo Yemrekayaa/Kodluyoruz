@@ -1,21 +1,27 @@
 # Kodluyoruz dersleri için oluşturulmuş repository.
 
-[Insertion Sort](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/insertionsort)
+## Veri Yapıları ve Algoritmalar
+[Insertion Sort](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/VYA/insertionsort)
 
-[Merge Sort](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/mergesort)
+[Merge Sort](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/VYA/mergesort)
 
-[Binary Search Tree](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/binarysearchtree)
+[Binary Search Tree](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/VYA/binarysearchtree)
+---
+## HTML
 
-[HTML 1](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/htmlgiris)
+[HTML 1](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/HTML/htmlgiris)
 
-[HTML 2](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/htmlgiris-2)
+[HTML 2](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/HTML/htmlgiris-2)
 
-[HTML 3](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/htmlgiris-3)
+[HTML 3](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/HTML/htmlgiris-3)
 
-[HTML 4](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/htmlgiris-4)
+[HTML 4](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/HTML/htmlgiris-4)
+---
+## CSS
 
-[CSS 1](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/css-1)
+[CSS 1](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/CSS/css-1)
 
-[CSS 2](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/css-2)
+[CSS 2](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/CSS/css-2)
 
-[CSS 3](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/css-3)
+[CSS 3](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/CSS/css-3)
+---
