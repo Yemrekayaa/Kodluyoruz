@@ -36,3 +36,5 @@
 ## JAVASCRIPT
 
 [JS 1](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/JS/js-1)
+
+[JS EXTRA 1](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/JS/js-extra-1)
