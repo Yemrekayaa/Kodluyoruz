@@ -39,4 +39,6 @@
 
 [JS 2](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/JS/js-2)
 
+[JS 3](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/JS/js-3)
+
 [JS EXTRA 1](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/JS/js-extra-1)
