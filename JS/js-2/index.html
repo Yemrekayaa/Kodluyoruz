@@ -13,7 +13,7 @@
     />
     <title>Yapılacaklar Listesi</title>
   </head>
-  <body onload="update()">
+  <body>
     <!-- Clean Modal -->
     <div
       class="modal fade"
@@ -101,7 +101,7 @@
         />
         <h2>Yapılacaklar Listesi</h2>
         <input type="text" id="task" placeholder="Bugün ne yapacaksın?" />
-        <span onclick="newElement()" id="liveToastBtn" class="button"
+        <span id="liveToastBtn" class="button"
           >Ekle</span
         >
       </div>
@@ -122,7 +122,7 @@
         integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns"
         crossorigin="anonymous"
       ></script>
-      <script src="js/main.js"></script>
+      <script defer src="js/main.js"></script>
     </div>
   </body>
 </html>

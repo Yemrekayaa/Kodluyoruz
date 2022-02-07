@@ -4,8 +4,9 @@ const ul_list = document.getElementById("list");
 const isEmpty = (str) => !str.trim().length;
 
 let TODO_LIST = JSON.parse(localStorage.getItem("TODO_LIST"));
-
+update();
 function update() {
+  if(TODO_LIST == null) TODO_LIST = []; else
   TODO_LIST.forEach((item, index) => {
     updateElement(item, index);
   });
@@ -18,8 +19,10 @@ tB_task.onkeyup = (event) => {
   }
 };
 
-function newElement(item) {
-  if (isEmpty(tB_task.value) && item == null) {
+btn_liveToastBtn.addEventListener('click', newElement);
+
+function newElement() {
+  if (isEmpty(tB_task.value)) {
     $(".toast.error").toast("show");
     tB_task.value = "";
   } else {
