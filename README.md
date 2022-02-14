@@ -42,3 +42,7 @@
 [JS 3](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/JS/js-3)
 
 [JS EXTRA 1](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/JS/js-extra-1)
+
+## SQL
+
+[SQL 1](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/SQL/sql-1)
