@@ -1,7 +1,5 @@
 # SQL Ödev1
 
-> [22, 27, 16, 2, 18, 6] -> Insertion Sort
-
 ## **film** tablosunda bulunan **title** ve **description** sütunlarındaki verileri sıralayınız.
 
 > SELECT title,description FROM film
