@@ -50,3 +50,5 @@
 [SQL 2](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/SQL/sql-2)
 
 [SQL 3](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/SQL/sql-3)
+
+[SQL 4](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/SQL/sql-4)
