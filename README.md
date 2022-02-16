@@ -58,3 +58,5 @@
 [SQL 6](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/SQL/sql-6)
 
 [SQL 7](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/SQL/sql-7)
+
+[SQL 8](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/SQL/sql-8)
