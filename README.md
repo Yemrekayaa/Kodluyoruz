@@ -62,3 +62,5 @@
 [SQL 8](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/SQL/sql-8)
 
 [SQL 9](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/SQL/sql-9)
+
+[SQL 10](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/SQL/sql-10)
