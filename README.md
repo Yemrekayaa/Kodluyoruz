@@ -66,3 +66,5 @@
 [SQL 10](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/SQL/sql-10)
 
 [SQL 11](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/SQL/sql-11)
+
+[SQL 12](https://github.com/Yemrekayaa/Kodluyoruz/tree/main/SQL/sql-12)
