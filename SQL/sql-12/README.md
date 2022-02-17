@@ -1,4 +1,4 @@
-# SQL Ödev11
+# SQL Ödev12
 
 ### film tablosunda film uzunluğu length sütununda gösterilmektedir. Uzunluğu ortalama film uzunluğundan fazla kaç tane film vardır?
 
